@@ -1,5 +1,9 @@
-[
-  "MustafaM200",
-  "AnotherUser",
-  "TestUser123"
-]
+{
+  "premium_users": [
+    "MustafaM2002",
+    "PremiumUser1", 
+    "PremiumUser2"
+  ],
+  "version": "1.0",
+  "last_updated": "2024-09-07"
+}
